@@ -1,0 +1,3180 @@
+[
+  {
+    "id": "Q-29",
+    "q": "Who is the author of ‘A Farewell to Arms’?",
+    "options": [
+      "ক) H.G. Wells",
+      "খ) George Orwell",
+      "গ) Thomas Hardy",
+      "ঘ) Ernest Hemingway"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "10_bcs, novel "
+  },
+  {
+    "id": "Q-30",
+    "q": "Who is the author of ‘Animal Farm’?",
+    "options": [
+      "ক) Thomas More",
+      "খ) George Orwell",
+      "গ) Boris Pasternak",
+      "ঘ) Charles Dickens"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "10_bcs, novel "
+  },
+  {
+    "id": "Q-122",
+    "q": "Who is the poet of the ‘Victorian Age’?",
+    "options": [
+      "Helen Keller",
+      "Matthew Arnold",
+      "Shakespare",
+      "Robert Browning"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "11_bcs, poet "
+  },
+  {
+    "id": "Q-123",
+    "q": "Who is the author of ‘For Whom the Bell Tolls’?",
+    "options": [
+      "Charles Dickens",
+      "Homer",
+      "Lord Tennison",
+      "Ernest Hemingway"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "11_bcs, novel "
+  },
+  {
+    "id": "Q-134",
+    "q": "‘Justice delayed is justice denied’ was stated by",
+    "options": [
+      "Disraeli",
+      "Emerson",
+      "Gladstone",
+      "Shakespeare"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "11_bcs, quotation "
+  },
+  {
+    "id": "Q-228",
+    "q": "Paradise Lost’ attempted to –",
+    "options": [
+      "Justify the ways of man to God",
+      "Justify the ways of God to man",
+      "Show that the Satan and God have equal power",
+      "Explain why good and evil are necessary"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "12_bcs, poem "
+  },
+  {
+    "id": "Q-236",
+    "q": "What is the full name of the great American short story writer O’Henry?",
+    "options": [
+      "Walt Whitman",
+      "William Sydney Porter",
+      "Marjorie Kinnan Rawlings",
+      "Mark Twain"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "12_bcs, personality "
+  },
+  {
+    "id": "Q-322",
+    "q": "Which of the following ages in literary history is the latest?",
+    "options": [
+      "The Augustin Age",
+      "The Victorian Age",
+      "The Georgian Age",
+      "The Restoration Age"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "13_bcs, history "
+  },
+  {
+    "id": "Q-324",
+    "q": "The first English dictionary was completed by",
+    "options": [
+      "lazak Walton",
+      "Samuel Johnson",
+      "Samuel Butler",
+      "Sir Thomas Browne"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "13_bcs, personality "
+  },
+  {
+    "id": "Q-334",
+    "q": "The ‘Poet Laureate’ is-",
+    "options": [
+      "the best poet of the country",
+      "a winner of the Noble Prize on poetry",
+      "the Court Port England",
+      "a classical poet"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "13_bcs, personality "
+  },
+  {
+    "id": "Q-335",
+    "q": "Which of the following school of literary writings is connected with a medical theory?",
+    "options": [
+      "Comedy of Manners",
+      "Theater of the Absurd",
+      "Heroic Tragedy",
+      "Comedy of Humours"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "13_bcs, history "
+  },
+  {
+    "id": "Q-336",
+    "q": "Who of the following was both a poet and painter?",
+    "options": [
+      "Keats",
+      "Donne",
+      "Blake",
+      "Spenser"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "13_bcs, personality "
+  },
+  {
+    "id": "Q-340",
+    "q": "Who wrote ‘beauty is truth, truth is beauty’?",
+    "options": [
+      "Shakespeare",
+      "Wordsworth",
+      "Keat",
+      "Eliot"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "13_bcs, quotation "
+  },
+  {
+    "id": "Q-412",
+    "q": "Shakespear is known mostly for his –",
+    "options": [
+      "poetry",
+      "novels",
+      "autobiography",
+      "plays"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "14_bcs, plays "
+  },
+  {
+    "id": "Q-414",
+    "q": "In which century was the Victorian period?",
+    "options": [
+      "17th century",
+      "18th century",
+      "19th century",
+      "20th century"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "14_bcs, history "
+  },
+  {
+    "id": "Q-418",
+    "q": "A fantasy is-",
+    "options": [
+      "an imaginary story",
+      "a history record",
+      "a funny film",
+      "a real-life event"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "14_bcs, literature "
+  },
+  {
+    "id": "Q-528",
+    "q": "Who is the author of ‘A Farewell to Arms’?",
+    "options": [
+      "ক) H.G. Wells",
+      "খ) George Orwell",
+      "গ) Thomas Hardy",
+      "ঘ) Ernest Hemingway"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "15_bcs, author"
+  },
+  {
+    "id": "Q-529",
+    "q": "Who is the author of ‘Animal Farm’?",
+    "options": [
+      "ক) Thomas More",
+      "খ) George Orwell",
+      "গ) Boris Pasternak",
+      "ঘ) Charles Dickens"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "15_bcs, author"
+  },
+  {
+    "id": "Q-621",
+    "q": "Who is the poet of the ‘Victorian Age’?",
+    "options": [
+      "ক) Helen Keller",
+      "খ) Matthew Arnold",
+      "গ) Shakespare",
+      "ঘ) Robert Browning"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "16_bcs, history"
+  },
+  {
+    "id": "Q-622",
+    "q": "Who is the author of ‘For Whom the Bell Tolls’?",
+    "options": [
+      "ক) Charles Dickens",
+      "খ) Homer",
+      "গ) Lord Tennison",
+      "ঘ) Ernest Hemingway"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "16_bcs, author"
+  },
+  {
+    "id": "Q-633",
+    "q": "‘Justice delayed is justice denied’ was stated by",
+    "options": [
+      "ক) Disraeli",
+      "খ) Emerson",
+      "গ) Gladstone",
+      "ঘ) Shakespeare"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "16_bcs, quotes"
+  },
+  {
+    "id": "Q-727",
+    "q": "Paradise Lost’ attempted to –",
+    "options": [
+      "ক) Justify the ways of man to God",
+      "খ) Justify the ways of God to man",
+      "গ) Show that the Satan and God have equal power",
+      "ঘ) Explain why good and evil are necessary"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "17_bcs, author"
+  },
+  {
+    "id": "Q-735",
+    "q": "What is the full name of the great American short story writer O’Henry?",
+    "options": [
+      "ক) Walt Whitman",
+      "খ) William Sydney Porter",
+      "গ) Marjorie Kinnan Rawlings",
+      "ঘ) Mark Twain"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "17_bcs, author"
+  },
+  {
+    "id": "Q-827",
+    "q": "Paradise Lost’ attempted to –",
+    "options": [
+      "Justify the ways of man to God",
+      "Justify the ways of God to man",
+      "Show that the Satan and God have equal power",
+      "Explain why good and evil are necessary"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "18_bcs, author"
+  },
+  {
+    "id": "Q-835",
+    "q": "What is the full name of the great American short story writer O’Henry?",
+    "options": [
+      "Walt Whitman",
+      "William Sydney Porter",
+      "Marjorie Kinnan Rawlings",
+      "Mark Twain"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "18_bcs, author"
+  },
+  {
+    "id": "Q-1021",
+    "q": "Which of the following ages in literary history is the latest?",
+    "options": [
+      "The Augustin Age",
+      "The Victorian Age",
+      "The Georgian Age",
+      "The Restoration Age"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "20_bcs, history "
+  },
+  {
+    "id": "Q-1023",
+    "q": "The first English dictionary was completed by",
+    "options": [
+      "lazak Walton",
+      "Samuel Johnson",
+      "Samuel Butler",
+      "Sir Thomas Browne"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "20_bcs, author "
+  },
+  {
+    "id": "Q-1033",
+    "q": "The ‘Poet Laureate’ is-",
+    "options": [
+      "the best poet of the country",
+      "a winner of the Noble Prize on poetry",
+      "the Court Poet of England",
+      "a classical poet"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "20_bcs, terminology "
+  },
+  {
+    "id": "Q-1034",
+    "q": "Which school of literary writings is connected with a medical theory?",
+    "options": [
+      "Comedy of Manners",
+      "Theater of the Absurd",
+      "Heroic Tragedy",
+      "Comedy of Humours"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "20_bcs, history "
+  },
+  {
+    "id": "Q-1035",
+    "q": "Who of the following was both a poet and painter?",
+    "options": [
+      "Keats",
+      "Donne",
+      "Blake",
+      "Spenser"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "20_bcs, author "
+  },
+  {
+    "id": "Q-1039",
+    "q": "Who wrote ‘beauty is truth, truth is beauty’?",
+    "options": [
+      "Shakespeare",
+      "Wordsworth",
+      "Keats",
+      "Eliot"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "20_bcs, quotes "
+  },
+  {
+    "id": "Q-1726",
+    "q": "If winter comes, can spring be far behind?’",
+    "options": [
+      "Keats",
+      "Frost",
+      "Eliot",
+      "Shelley"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "27_bcs, quote"
+  },
+  {
+    "id": "Q-1733",
+    "q": "Who did write first English dictionary?",
+    "options": [
+      "Boswell",
+      "Ben Jonson",
+      "Samuel Johnson",
+      "Milton"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "27_bcs, literature"
+  },
+  {
+    "id": "Q-1736",
+    "q": "“Animal Farm” was written by—",
+    "options": [
+      "George Orwell",
+      "Stevenson",
+      "Swift",
+      "Mark Twain"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "27_bcs, literature"
+  },
+  {
+    "id": "Q-1837",
+    "q": "Into the — of death rode the six hundred.",
+    "options": [
+      "city",
+      "tunnel",
+      "road",
+      "valley"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "28_bcs, literature"
+  },
+  {
+    "id": "Q-1838",
+    "q": "To be or not to be, that is the —.",
+    "options": [
+      "meaning",
+      "question",
+      "answer",
+      "issue"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "28_bcs, literature"
+  },
+  {
+    "id": "Q-1839",
+    "q": "I have a — that one day this nation will live out the true meaning of its creed that all men are created equal.",
+    "options": [
+      "desire",
+      "hope",
+      "dream",
+      "wish"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "28_bcs, speech"
+  },
+  {
+    "id": "Q-1840",
+    "q": "Who wrote the two famous novels, ‘David Copperfield’ and ‘The Tale of Two Cities’?",
+    "options": [
+      "Thomas Hardy",
+      "Jane Austen",
+      "George Eliot",
+      "Charles Dickens"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "28_bcs, novel"
+  },
+  {
+    "id": "Q-1841",
+    "q": "Who wrote the plays “The Tempest’ and “The Mid Summer Night’s Dream”?",
+    "options": [
+      "Ben Johnson",
+      "Christopher Marlowe",
+      "John Dryden",
+      "William Shakespeare"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "28_bcs, drama"
+  },
+  {
+    "id": "Q-1924",
+    "q": "A song embodying religious and sacred emotions-",
+    "options": [
+      "lyrics",
+      "Ode",
+      "Hymn",
+      "Ballad"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "29_bcs, literature"
+  },
+  {
+    "id": "Q-2024",
+    "q": "A song embodying religious and sacred emotions?",
+    "options": [
+      "Lyric",
+      "Ode",
+      "Hymn",
+      "Ballad"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "30_bcs, literary terms"
+  },
+  {
+    "id": "Q-2115",
+    "q": "A formal composition or speech expressing high praise of somebody?",
+    "options": [
+      "elegy",
+      "eulogy",
+      "caricature",
+      "exaggeration"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "31_bcs, literary terms"
+  },
+  {
+    "id": "Q-2215",
+    "q": "‘Who would have thought Shylock was so unkind’",
+    "options": [
+      "hyperbole",
+      "command",
+      "interrogation",
+      "wonder"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "32_bcs, literary terms"
+  },
+  {
+    "id": "Q-2306",
+    "q": "If a part of a speech or writing breaks the theme, it is called —",
+    "options": [
+      "pomposity",
+      "digression",
+      "exaggeration",
+      "anti-climax"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "33_bcs, literary terms"
+  },
+  {
+    "id": "Q-2490",
+    "q": "Who wrote: “all at once I saw/a crowd, a host of golden daffodils”?",
+    "options": [
+      "Wordsworth",
+      "Shelley",
+      "Herrick",
+      "Keats"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, poem"
+  },
+  {
+    "id": "Q-2493",
+    "q": "Who among the following writers is not a Nobel Laureate?",
+    "options": [
+      "T.S. Eliot",
+      "Toni Morrison",
+      "Grahame Greene",
+      "William Faulkner"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, Nobel Prize"
+  },
+  {
+    "id": "Q-2497",
+    "q": "The play ‘Arms and the Man’ is by—?",
+    "options": [
+      "James Joyce",
+      "Samuel Beckett",
+      "Arthur Miller",
+      "George Bernard Shaw"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, play"
+  },
+  {
+    "id": "Q-2500",
+    "q": "The ‘climax’ of a plot is what happens—?",
+    "options": [
+      "in the beginning",
+      "at the end",
+      "at the height",
+      "in the confrontation"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, literary terms"
+  },
+  {
+    "id": "Q-2502",
+    "q": "Othello is a Shakespeare’s play about–?",
+    "options": [
+      "A Jew",
+      "A Turk",
+      "A Roman",
+      "A Moor"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, play"
+  },
+  {
+    "id": "Q-2505",
+    "q": "The poem ” Isle of Innisfree’ is written by–?",
+    "options": [
+      "Dylan Thomas",
+      "Ezra Pound",
+      "WH Auden",
+      "W.B. Yeats"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, poem"
+  },
+  {
+    "id": "Q-2506",
+    "q": "Riders to the Sea is—?",
+    "options": [
+      "an epic poem",
+      "a novella",
+      "a one-act play",
+      "adaptation of a poem"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, play"
+  },
+  {
+    "id": "Q-2511",
+    "q": "Which of the following writers belong to the Elizabethan period?",
+    "options": [
+      "Christopher Marlowe",
+      "Alexander Pope",
+      "John Dryden",
+      "Samuel Beckett"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, writers"
+  },
+  {
+    "id": "Q-2513",
+    "q": "“To be, or not be, that is the question ” — dialogue from—?",
+    "options": [
+      "Othello",
+      "Romeo and Juliet",
+      "Hamlet",
+      "Macbeth"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, dialogue"
+  },
+  {
+    "id": "Q-2514",
+    "q": "Class relations and societal conflict is the al key understanding of—?",
+    "options": [
+      "Feminism",
+      "Formalism",
+      "Structuralism",
+      "Marxism"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, literary terms"
+  },
+  {
+    "id": "Q-2522",
+    "q": "Find the odd-man-out—?",
+    "options": [
+      "George Eliot",
+      "Thomas Hardy",
+      "Joseph Conrad",
+      "James Joyce"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, writers"
+  },
+  {
+    "id": "Q-2523",
+    "q": "Find the odd-man-out—?",
+    "options": [
+      "The Bluest Eye",
+      "Sula",
+      "As I Lay Dying",
+      "A Mercy"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "35_bcs, books"
+  },
+  {
+    "id": "Q-2645",
+    "q": "‘David Copperfield’ is a/an—-novel.",
+    "options": [
+      "Modern",
+      "Victorian",
+      "Eligabethan",
+      "Romantic"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, novel"
+  },
+  {
+    "id": "Q-2646",
+    "q": "‘Elegy Written in a Country Churchyard’ is written by",
+    "options": [
+      "John Keats",
+      "W. B. Yeats",
+      "William Wordaworth",
+      "Thomas Gray"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, poem"
+  },
+  {
+    "id": "Q-2648",
+    "q": "Shakespeare’s ‘Measure for Measure’ is a successful—",
+    "options": [
+      "tragi-comedy",
+      "melodrama",
+      "comedy",
+      "tragedy"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, play"
+  },
+  {
+    "id": "Q-2650",
+    "q": "The romantic age in English literature began with the publication of",
+    "options": [
+      "Preface to Dr. Johnson",
+      "Preface to Shakespeare",
+      "Preface to Lyrical Ballads",
+      "Preface to Ancient Mariners"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, literary history"
+  },
+  {
+    "id": "Q-2652",
+    "q": "Which of the following books is written by Thomas Hardy?",
+    "options": [
+      "The Return of the Native",
+      "Vanity Fair",
+      "Oliver Twist",
+      "Pride and Prejudice"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, novel"
+  },
+  {
+    "id": "Q-2655",
+    "q": "‘Frailty the name is woman’–is a famous dialogue from.",
+    "options": [
+      "T. S. Eliot",
+      "Christopher Marlowe",
+      "John Webstar",
+      "W. Shakespeare"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, drama"
+  },
+  {
+    "id": "Q-2656",
+    "q": "The poem ‘The Solitary Reaper’ is written by —–",
+    "options": [
+      "W. B. Yeats",
+      "Ezra Pound",
+      "W. H. Auden",
+      "W. Wordsworth"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, poem"
+  },
+  {
+    "id": "Q-2657",
+    "q": "‘The Merchant of Venice’ is a Shakespearean play about—-",
+    "options": [
+      "a Moor",
+      "a Jew",
+      "a Turk",
+      "a Roman"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, drama"
+  },
+  {
+    "id": "Q-2659",
+    "q": "The play ‘Candida’ is by—–",
+    "options": [
+      "Shakespeare",
+      "G. B. Shaw",
+      "Arthur Miller",
+      "James Joyce"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, play"
+  },
+  {
+    "id": "Q-2660",
+    "q": "Which of the following writers belongs to the romantic period?",
+    "options": [
+      "S. T. Coleridge",
+      "A. Tennyson",
+      "Alexander Pope",
+      "John Dryden"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, period"
+  },
+  {
+    "id": "Q-2662",
+    "q": "The Climax of a plot is what happens—–",
+    "options": [
+      "at the height",
+      "in the beginning",
+      "in the confrontation",
+      "at the end"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, literary terms"
+  },
+  {
+    "id": "Q-2663",
+    "q": "London town is found a living being in the works of—-",
+    "options": [
+      "W. Congreve",
+      "D. H. Lawrence",
+      "Charles Dickens",
+      "Thomas Hardy"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, writers"
+  },
+  {
+    "id": "Q-2667",
+    "q": "‘Child is the father of man’ is taken from the poem of—–",
+    "options": [
+      "S. T. Coleridge",
+      "W. Wordsworth",
+      "A. C. Swinbume",
+      "P. B. Shelley"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, poem"
+  },
+  {
+    "id": "Q-2669",
+    "q": "‘Man is a political animal’—who said this?",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Socrates",
+      "Dante"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, quotes"
+  },
+  {
+    "id": "Q-2670",
+    "q": "Who is known as ‘the poet of nature ‘ in English literature?",
+    "options": [
+      "John Keats",
+      "Lord Tennyson",
+      "John Milton",
+      "William Wordsworth"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, writers"
+  },
+  {
+    "id": "Q-2672",
+    "q": "“A Passage to India” is written by——",
+    "options": [
+      "Galls Worthy",
+      "A. H. Auden",
+      "E. M. Forster",
+      "Rudyard Kipling"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, novel"
+  },
+  {
+    "id": "Q-2673",
+    "q": "‘Gitanjali’ of Rabindranath Tagore was translated by—–",
+    "options": [
+      "John Keats",
+      "Rudyard Kipling",
+      "Robert Frost",
+      "W. B. Yeats"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, translation"
+  },
+  {
+    "id": "Q-2677",
+    "q": "Who of the following writers was not a novelist?",
+    "options": [
+      "W. B. Yeats",
+      "Charles Dickens",
+      "Jane Austen",
+      "James Joyce"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, writers"
+  },
+  {
+    "id": "Q-2772",
+    "q": "‘War and Peace’ উপন্যাসের রচয়িতা —–",
+    "options": [
+      "কার্ল মার্কস",
+      "জেন অস্টিন",
+      "লিও টলস্টয়",
+      "ডেভিড রিকার্ডো"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "36_bcs, সাহিত্য"
+  },
+  {
+    "id": "Q-2853",
+    "q": "“Gerontion” is a poem by —",
+    "options": [
+      "T. S. Eliot",
+      "Mathew Arnold",
+      "Robert Browning",
+      "W. B. Yeats"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, poem"
+  },
+  {
+    "id": "Q-2854",
+    "q": "Fill in the blank. “—” is Shakespeare’s last play.",
+    "options": [
+      "Macbeth",
+      "Tempest",
+      "Othello",
+      "As You Like It"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, play"
+  },
+  {
+    "id": "Q-2855",
+    "q": "Who has written the poem “Elegy Written in a Country Churchyard”?",
+    "options": [
+      "Thomas Gray",
+      "Robert Frost",
+      "Y. B. Yeats",
+      "P. B Shelley"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, poem"
+  },
+  {
+    "id": "Q-2856",
+    "q": "Who has written the play ‘Volpone’?",
+    "options": [
+      "Ben Jonson",
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "John Webster"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, play"
+  },
+  {
+    "id": "Q-2857",
+    "q": "Shakespeare composed much of his plays in what sort of verse?",
+    "options": [
+      "Sonnet form",
+      "Iambic pentameter",
+      "Daetylic Haxameter",
+      "Alliterative"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, poetry"
+  },
+  {
+    "id": "Q-2858",
+    "q": "The repetition of beginning consonant sound is know as?",
+    "options": [
+      "onomatopoeia",
+      "alliteration",
+      "rhyme",
+      "personification"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, literary terms"
+  },
+  {
+    "id": "Q-2859",
+    "q": "Which of the following is not a poetic tradition?",
+    "options": [
+      "The Comic",
+      "The Occult",
+      "the Tragic",
+      "The Epic"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, literary terms"
+  },
+  {
+    "id": "Q-2860",
+    "q": "What is a funny poem of five lines called?",
+    "options": [
+      "Limerick",
+      "Sixtet",
+      "Haiku",
+      "Quartet"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, poetry"
+  },
+  {
+    "id": "Q-2861",
+    "q": "Who wrote “Biographia Literaria”?",
+    "options": [
+      "P. B. Shelley",
+      "S. T. Coleridge",
+      "Charles Lamb",
+      "Lord Byron"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, book"
+  },
+  {
+    "id": "Q-2862",
+    "q": "Robert Browning was a — poet.",
+    "options": [
+      "Victorian",
+      "Modern",
+      "Elizathan",
+      "Romantic"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, poet"
+  },
+  {
+    "id": "Q-2863",
+    "q": "Othello gave Desdemona— as a token of love:",
+    "options": [
+      "Handkerchief",
+      "Pendant",
+      "Bangles",
+      "Ring"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, play"
+  },
+  {
+    "id": "Q-2864",
+    "q": "P.B. Shelley’s ‘Adonais’ is an elegy on the death of?",
+    "options": [
+      "A. T. Coleridge",
+      "John Keats",
+      "Lord Byron",
+      "John Milton"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, poem"
+  },
+  {
+    "id": "Q-2865",
+    "q": "The comparison of unlike things using ‘like’ or ‘as’ is?",
+    "options": [
+      "metaphor",
+      "simile",
+      "personification",
+      "alliteration"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, literary terms"
+  },
+  {
+    "id": "Q-2866",
+    "q": "‘Restoration period’ in English literature refers to?",
+    "options": [
+      1760,
+      1660,
+      1866,
+      1560
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, literary history"
+  },
+  {
+    "id": "Q-2867",
+    "q": "‘The Sun Also Rises’ is a novel written by?",
+    "options": [
+      "Charles Dickens",
+      "Earnest Hemingway",
+      "Thomas Hardy",
+      "Hermanne Melville"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "37_bcs, novel"
+  },
+  {
+    "id": "Q-3068",
+    "q": "Who is the author of ‘Man and Superman’?",
+    "options": [
+      "G.B Shaw",
+      "Thomas Hardy",
+      "Emest Hemingway",
+      "Charles Dickens"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, drama "
+  },
+  {
+    "id": "Q-3069",
+    "q": "The most famous satirist in English literature?",
+    "options": [
+      "Jonathan Swift",
+      "Alexander Pope",
+      "Joseph Addison",
+      "Richard Steel"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, satire "
+  },
+  {
+    "id": "Q-3074",
+    "q": "‘Jacobean Period’ refers to—",
+    "options": [
+      "1558-1603",
+      "1625-1649",
+      "1603-1625",
+      "1649-1660"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, period "
+  },
+  {
+    "id": "Q-3086",
+    "q": "Of the following authors, who wrote an epic?",
+    "options": [
+      "John Milton",
+      "Jane Mansfield",
+      "William Cowper",
+      "W. Shakespeare"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, writer "
+  },
+  {
+    "id": "Q-3087",
+    "q": "The literary term ‘euphemism’ means—",
+    "options": [
+      "vague idea",
+      "in offensive expression",
+      "a sonnet",
+      "wise saying"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, term "
+  },
+  {
+    "id": "Q-3091",
+    "q": "Who is not a Victorian poet?",
+    "options": [
+      "Mathew Arnold",
+      "Alexander Pope",
+      "Robert Browning",
+      "Alfred Tennyson"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, poet "
+  },
+  {
+    "id": "Q-3094",
+    "q": "The play ‘The Spanish Tragedy’ is by—",
+    "options": [
+      "Thomas Kyd",
+      "C. Marlowe",
+      "Shakespeare",
+      "Ben Jonson"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, play "
+  },
+  {
+    "id": "Q-3095",
+    "q": "Famous Indian English novelist?",
+    "options": [
+      "G. C. Spivak",
+      "R.K. Narayan",
+      "Nissim Ezekiel",
+      "Kamala Das"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, writer "
+  },
+  {
+    "id": "Q-3099",
+    "q": "Which is known as ‘The golden age’?",
+    "options": [
+      "Victorian age",
+      "Elizabeth I age",
+      "Restoration age",
+      "18th Century"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, history "
+  },
+  {
+    "id": "Q-3202",
+    "q": "The novelist has a hold of—in writing.",
+    "options": [
+      "manner",
+      "history",
+      "tradition",
+      "style"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, vocabulary "
+  },
+  {
+    "id": "Q-3214",
+    "q": "Where do the following lines occur: “Alone, alone...”",
+    "options": [
+      "Ancient Mariner",
+      "Kubla Khan",
+      "Nightingle",
+      "Dungeon"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, poem "
+  },
+  {
+    "id": "Q-3215",
+    "q": "“For God’s sake hold your tongue, and let me love.”",
+    "options": [
+      "Dickinson",
+      "Eliot",
+      "Arnold",
+      "John Donne"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "38_bcs, quotes "
+  },
+  {
+    "id": "Q-3286",
+    "q": "‘A Christmas Carol’ is a—by Charles Dickens.",
+    "options": [
+      "sketch story",
+      "ballad",
+      "historical novel",
+      "short novel"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "39_bcs, novel "
+  },
+  {
+    "id": "Q-3299",
+    "q": "‘To be, or not to be that is the question’— soliloquy from—",
+    "options": [
+      "Macbeth",
+      "King Lear",
+      "Othello",
+      "Hamlet"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "39_bcs, drama "
+  },
+  {
+    "id": "Q-3462",
+    "q": "The Rape of the Lock’ by Alexander Pope is a/an—",
+    "options": [
+      "epic",
+      "ballad",
+      "mock-heroic poem",
+      "elegy"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, poem "
+  },
+  {
+    "id": "Q-3463",
+    "q": "Which of the following is not an American poet?",
+    "options": [
+      "Robert Frost",
+      "W.B.Yeats",
+      "Emily Dickinson",
+      "Langston Hughes"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, writers "
+  },
+  {
+    "id": "Q-3464",
+    "q": "William Shakespeare was born in—",
+    "options": [
+      1616,
+      1664,
+      1564,
+      1493
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, writers "
+  },
+  {
+    "id": "Q-3465",
+    "q": "Tennyson’s In Memoriam’ is an elegy on death of—",
+    "options": [
+      "John Milton",
+      "John Keats",
+      "Arthur Henry Hallam",
+      "Sydney Smith"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, poem "
+  },
+  {
+    "id": "Q-3466",
+    "q": "‘Sweet Helen’ make me immortal with a kiss.’",
+    "options": [
+      "Romeo and Juliet",
+      "Caesar and Cleopatra",
+      "Doctor Faustus",
+      "Antony and Cleopatra"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, drama "
+  },
+  {
+    "id": "Q-3467",
+    "q": "“What’s in a name? ... rose By any other name...”",
+    "options": [
+      "Juliet",
+      "Romeo",
+      "Portia",
+      "Rosalind"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, drama "
+  },
+  {
+    "id": "Q-3468",
+    "q": "‘Man’s love is of man’s life a thing apart...’",
+    "options": [
+      "P. B. Shelley",
+      "Lord Byron",
+      "John Keats",
+      "Edmund Spenser"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, poem "
+  },
+  {
+    "id": "Q-3469",
+    "q": "Who translated the ‘Rubaiyat of Omar Khayyam’?",
+    "options": [
+      "Thomas Carlyle",
+      "Edward FitzGerald",
+      "D.G. Rossetti",
+      "William Thackeray"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, translation "
+  },
+  {
+    "id": "Q-3470",
+    "q": "‘Ulysses’ is a novel written by–",
+    "options": [
+      "Joseph Conrad",
+      "Thomas Hardy",
+      "Charles Dickens",
+      "James Joyce"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, novel "
+  },
+  {
+    "id": "Q-3471",
+    "q": "The short story ‘The Diamond Necklace’ written by–",
+    "options": [
+      "Guy de Maupassant",
+      "O Henry",
+      "Somerset Maugham",
+      "George Orwell"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, story "
+  },
+  {
+    "id": "Q-3472",
+    "q": "‘All the perfumes of Arabia will not sweeten...’",
+    "options": [
+      "Macbeth",
+      "Lady Macbeth",
+      "Lady Macduff",
+      "Macduff"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, drama "
+  },
+  {
+    "id": "Q-3473",
+    "q": "‘Where are the songs of Spring Aye, where they?’",
+    "options": [
+      "Wordsworth",
+      "Browning",
+      "Keats",
+      "Coleridg"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, poem "
+  },
+  {
+    "id": "Q-3474",
+    "q": "Who is the central character of ‘Wuthering Heights’?",
+    "options": [
+      "Mr. Earnshaw",
+      "Catherine",
+      "Heathcliff",
+      "Hindley"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, novel "
+  },
+  {
+    "id": "Q-3475",
+    "q": "‘The old order changeth, yielding place to new.’",
+    "options": [
+      "The Lotos – Eaters",
+      "Tithonus",
+      "Locksley Hall",
+      "Morte d’Arthur"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, poem "
+  },
+  {
+    "id": "Q-3476",
+    "q": "Who worte the poem The Good-Morrow’?",
+    "options": [
+      "George Herbert",
+      "Andrew Marvell",
+      "John Donne",
+      "Henry Vaughan"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "40_bcs, poem "
+  },
+  {
+    "id": "Q-3641",
+    "q": "“Was this the face... thousand ships”? Who speaks?",
+    "options": [
+      "Caesar",
+      "Faustus",
+      "Antony",
+      "Romeo"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, drama "
+  },
+  {
+    "id": "Q-3642",
+    "q": "The Character ‘Alfred Doolittle’ is from Shaw’s—",
+    "options": [
+      "Pygmalion",
+      "Man and Superman",
+      "The Doctor’s...",
+      "Mrs. Warren’s..."
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, drama "
+  },
+  {
+    "id": "Q-3643",
+    "q": "In Shakespeare’s play Hamlet, Hamlet was prince of?",
+    "options": [
+      "Norway",
+      "Britain",
+      "Denmark",
+      "France"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, drama "
+  },
+  {
+    "id": "Q-3644",
+    "q": "‘The Love Song of J. Alfred Prufrock’ is by—",
+    "options": [
+      "W. B. Yeats",
+      "T.S. Eliot",
+      "Walter Scott",
+      "Robert Browing"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, poem "
+  },
+  {
+    "id": "Q-3645",
+    "q": "Who is author of first scientific romance Time Machine?",
+    "options": [
+      "H. G. Wells",
+      "Samuel Butler",
+      "Henry James",
+      "George Moore"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, novel "
+  },
+  {
+    "id": "Q-3646",
+    "q": "Adela Quested and Mrs. Moore are characters from?",
+    "options": [
+      "David Copperfield",
+      "Return of Native",
+      "A Passage to India",
+      "Adam Bede"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, novel "
+  },
+  {
+    "id": "Q-3647",
+    "q": "“...nothing either good or bad, but thinking...”?",
+    "options": [
+      "King Lear",
+      "Macbeth",
+      "As You Like it",
+      "Hamlet"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, drama "
+  },
+  {
+    "id": "Q-3648",
+    "q": "‘Made weak by time and fate...’ is taken from—",
+    "options": [
+      "Robert Browning",
+      "Matthew Amold",
+      "Alfred Tennyson",
+      "Lord Byron"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, poem "
+  },
+  {
+    "id": "Q-3649",
+    "q": "‘Pip’ is the protagonist in which novel?",
+    "options": [
+      "A Christmas Carol",
+      "Tale of Two Cities",
+      "Oliver Twist",
+      "Great Expectations"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, novel "
+  },
+  {
+    "id": "Q-3650",
+    "q": "‘Lady Chatterley’s Lover’ was written by author of?",
+    "options": [
+      "Lord Jim",
+      "The Rainbow",
+      "Ulysses",
+      "A Passage to India"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, novel "
+  },
+  {
+    "id": "Q-3651",
+    "q": "Vanity Fair’ is a novel written by–",
+    "options": [
+      "D. H. Lawrence",
+      "W. M. Thackeray",
+      "Joseph Conrad",
+      "Virgina Woolf"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, novel "
+  },
+  {
+    "id": "Q-3652",
+    "q": "Who is not a romantic poet?",
+    "options": [
+      "P. B. Shelley",
+      "S. T. Coleridge",
+      "John Keats",
+      "T.S. Eliot"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, poet "
+  },
+  {
+    "id": "Q-3653",
+    "q": "The play The Birthday Party’ is written by–",
+    "options": [
+      "Samuel Beckett",
+      "Henry Livings",
+      "Harold Pinter",
+      "Arthur Miller"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, drama "
+  },
+  {
+    "id": "Q-3654",
+    "q": "Time held me green and dying... quoted from?",
+    "options": [
+      "The Flower",
+      "Fern Hill",
+      "By Fire",
+      "After the Funeral"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "41_bcs, poem "
+  },
+  {
+    "id": "Q-3804",
+    "q": "‘A Passage to India’ is written by :",
+    "options": [
+      "E.M. Forster",
+      "Nirad Chaudhuri",
+      "Rudyard Kipling",
+      "Walt Whitman"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "42_bcs, novel "
+  },
+  {
+    "id": "Q-3836",
+    "q": "Who wrote Dr. Zivago?",
+    "options": [
+      "Maxim Gorky",
+      "Boris Pastornak",
+      "Dostoevsky",
+      "Leo Tolstoy"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "42_bcs, novel "
+  },
+  {
+    "id": "Q-3857",
+    "q": "‘September on the Jessore Road’ is written by :",
+    "options": [
+      "Madhusudan Dutt",
+      "Allen Ginsberg",
+      "Kaiser Huq",
+      "Vikram Seth"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "42_bcs, poem "
+  },
+  {
+    "id": "Q-3900",
+    "q": "Who is the author of ‘Jane Eyre’?",
+    "options": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Jane Austen",
+      "Mary Shelley"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, novel "
+  },
+  {
+    "id": "Q-3901",
+    "q": "Most famous romantic poet in English?",
+    "options": [
+      "John Dryden",
+      "Alexander Pope",
+      "W. Wordsworth",
+      "T.S. Eliot"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, poet "
+  },
+  {
+    "id": "Q-3904",
+    "q": "Who wrote ‘The Way of the World’?",
+    "options": [
+      "Shakespeare",
+      "William Congreve",
+      "Ben Jonson",
+      "Oscar Wilde"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, play "
+  },
+  {
+    "id": "Q-3905",
+    "q": "‘Better to reign in Hell...’– Who wrote this?",
+    "options": [
+      "Chaucer",
+      "Marlowe",
+      "John Milton",
+      "P.B. Shelley"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, poem "
+  },
+  {
+    "id": "Q-3906",
+    "q": "Who is not an Irish writer?",
+    "options": [
+      "Oscar Wilde",
+      "James Joyce",
+      "Jonathan Swift",
+      "D.H. Lawrence"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, writer "
+  },
+  {
+    "id": "Q-3910",
+    "q": "Who is the poet of the poem ‘Ozymandias’?",
+    "options": [
+      "P.B. Shelley",
+      "W. Wordsworth",
+      "Coleridge",
+      "John Keats"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, poem "
+  },
+  {
+    "id": "Q-3911",
+    "q": "‘Moby Dick’, a novel, was written by—",
+    "options": [
+      "Herman Melville",
+      "Nathaniel...",
+      "Mark Twain",
+      "Faulkner"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, novel "
+  },
+  {
+    "id": "Q-3912",
+    "q": "‘If Winter comes, can Spring be far behind?”",
+    "options": [
+      "Blake",
+      "Coleridge",
+      "Lord Byron",
+      "P.B. Shelley"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, poem "
+  },
+  {
+    "id": "Q-3913",
+    "q": "O’Henry was from—",
+    "options": [
+      "Canada",
+      "America",
+      "England",
+      "Ireland"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, writer "
+  },
+  {
+    "id": "Q-3915",
+    "q": "‘No Second Troy’ is a—",
+    "options": [
+      "short story",
+      "novel",
+      "poem",
+      "drama"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, poem "
+  },
+  {
+    "id": "Q-3916",
+    "q": "Who is not a modern poet?",
+    "options": [
+      "W.B. Yeats",
+      "W.H. Auden",
+      "John Keats",
+      "T.S. Eliot"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, poet "
+  },
+  {
+    "id": "Q-3917",
+    "q": "Who is author of ‘The God of Small Things’?",
+    "options": [
+      "Thomas Hardy",
+      "Jhumpa Lahiri",
+      "R. K. Narayan",
+      "Arundhati Roy"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, novel "
+  },
+  {
+    "id": "Q-3918",
+    "q": "Which is not written by an English writer?",
+    "options": [
+      "Passage to India",
+      "Sons and Lovers",
+      "100 Years of...",
+      "Pride and Prejudice"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, novel "
+  },
+  {
+    "id": "Q-3919",
+    "q": "Where is the setting of the play ‘Hamlet’?",
+    "options": [
+      "England",
+      "Italy",
+      "France",
+      "Denmark"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, drama "
+  },
+  {
+    "id": "Q-3926",
+    "q": "What kind of play is ‘Julius Ceasar’?",
+    "options": [
+      "romantic",
+      "anti-romantic",
+      "comedy",
+      "historical"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, drama "
+  },
+  {
+    "id": "Q-3930",
+    "q": "—was both a poet and a painter.",
+    "options": [
+      "John Keats",
+      "Spenser",
+      "William Blake",
+      "John Donne"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, personality "
+  },
+  {
+    "id": "Q-3978",
+    "q": "‘The Lady with the Lamp’ কে?",
+    "options": [
+      "হেলেন কেলার",
+      "ফ্লোরেন্স...",
+      "মাদার তেরেসা",
+      "সরোজিনী নাইডু"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "43_bcs, personality "
+  },
+  {
+    "id": "Q-4080",
+    "q": "‘Sweet are the uses of adversity’ is quoted from Shakespeare’s-",
+    "options": [
+      "Julius Caesar",
+      "Macbeth",
+      "Comedy of Errors",
+      "As you Like It"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, shakespeare"
+  },
+  {
+    "id": "Q-4083",
+    "q": "“Life’s but a walking shadow...” These lines are spoken by",
+    "options": [
+      "Lady Macbeth",
+      "Banquo",
+      "Duncan",
+      "Macbeth"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, shakespeare"
+  },
+  {
+    "id": "Q-4086",
+    "q": "“All changed, changed utterly: A terrible beauty is born.” is from poem-",
+    "options": [
+      "No Second Troy",
+      "Easter",
+      "The Second Coming",
+      "The Wild Swans"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, poetry"
+  },
+  {
+    "id": "Q-4088",
+    "q": "The poetic drama ‘Murder in the Cathedral’ was written by",
+    "options": [
+      "Harold Pinter",
+      "G. B. Shaw",
+      "T. S. Eliot",
+      "Samuel Beckett"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, drama"
+  },
+  {
+    "id": "Q-4089",
+    "q": "‘All for Love’ is a drama written by",
+    "options": [
+      "John Dryden",
+      "William Congreve",
+      "John Bunyan",
+      "Francis Bacon"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, drama"
+  },
+  {
+    "id": "Q-4091",
+    "q": "Caliban is an important character from Shakespeare’s",
+    "options": [
+      "The Tempest",
+      "Hamlet",
+      "Macbeth",
+      "Othello"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, shakespeare"
+  },
+  {
+    "id": "Q-4093",
+    "q": "‘Caesar and Cleopatra’ is",
+    "options": [
+      "a tragedy by Shakespeare",
+      "a poem by Lord Byron",
+      "a play by Bernard Shaw",
+      "a novel by Coleridge"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, play"
+  },
+  {
+    "id": "Q-4096",
+    "q": "Who wrote the picaresque novel titled ‘Tom Jones’?",
+    "options": [
+      "Samuel Richardson",
+      "Horace Walpole",
+      "Henry Fielding",
+      "Laurence Sterne"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, novel"
+  },
+  {
+    "id": "Q-4097",
+    "q": "The story of ‘Moby Dick’ centres on",
+    "options": [
+      "a mermaid",
+      "a whale",
+      "a crocodile",
+      "a shark"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, novel"
+  },
+  {
+    "id": "Q-4098",
+    "q": "‘He prayeth best, who loveth best.’-Who said it?",
+    "options": [
+      "John Milton",
+      "John Donne",
+      "Lord Byron",
+      "S. T. Coleridge"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, poetry"
+  },
+  {
+    "id": "Q-4102",
+    "q": "Paradise Lost’ attempted to",
+    "options": [
+      "justify the ways of man to God.",
+      "show Satan/God equal power",
+      "justify the ways of God to man.",
+      "explain good/evil"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, milton"
+  },
+  {
+    "id": "Q-4103",
+    "q": "“Oh, lift me as a wave, a leaf, a cloud!...” is from poem",
+    "options": [
+      "To a Skylark",
+      "The Cloud",
+      "Ode to the West Wind",
+      "Adonais"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, shelley"
+  },
+  {
+    "id": "Q-4104",
+    "q": "Who wrote the short story ‘The Ant and the Grasshopper’?",
+    "options": [
+      "Guy de Maupassant",
+      "W. Somerset Maugham",
+      "J. K. Rawlings",
+      "O’ Henry"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, short story"
+  },
+  {
+    "id": "Q-4109",
+    "q": "Alexander Pope’s ‘Essay on Man’ is a",
+    "options": [
+      "novel",
+      "treatise",
+      "short story",
+      "poem"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, pope"
+  },
+  {
+    "id": "Q-4111",
+    "q": "Francis Bacon is an illustrious",
+    "options": [
+      "essayist",
+      "dramatist",
+      "novelist",
+      "journalist"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "44_bcs, bacon"
+  },
+  {
+    "id": "Q-4604",
+    "q": "The two cities in 'A Tale of Two Cities' are –",
+    "options": [
+      "London and Manchester",
+      "London and Paris",
+      "Paris and New York",
+      "Paris and Geneva"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, charles_dickens"
+  },
+  {
+    "id": "Q-4605",
+    "q": "‘Frailty, thy name is woman’ occurs in –",
+    "options": [
+      "Hamlet",
+      "Macbeth",
+      "Othello",
+      "King Lear"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, shakespeare"
+  },
+  {
+    "id": "Q-4606",
+    "q": "Who of the following compiled an English Dictionary?",
+    "options": [
+      "Samuel Johnson",
+      "T.S. Eliot",
+      "John Dryden",
+      "William Congreve"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, history_of_eng_lit"
+  },
+  {
+    "id": "Q-4607",
+    "q": "Which is not a poetry form?",
+    "options": [
+      "Sonnet",
+      "Ballad",
+      "Tale",
+      "Epic"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, literary_terms"
+  },
+  {
+    "id": "Q-4608",
+    "q": "‘I am a man more sinned against than sinning’ is uttered by:",
+    "options": [
+      "Horatio",
+      "Hamlet",
+      "King Lear",
+      "Macbeth"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, shakespeare"
+  },
+  {
+    "id": "Q-4609",
+    "q": "Which event influenced Romantic period literature?",
+    "options": [
+      "French Revolution",
+      "Industrial Revolution",
+      "Russian Revolution",
+      "Hundred Years’ War"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, romantic_age"
+  },
+  {
+    "id": "Q-4610",
+    "q": "The author of 'A Farewell to Arms' is –",
+    "options": [
+      "Somerset Maugham",
+      "Ernest Hemingway",
+      "D. H. Lawrence",
+      "Jane Austen"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, modern_age"
+  },
+  {
+    "id": "Q-4611",
+    "q": "Who is the most famous satirist in English literature?",
+    "options": [
+      "Alexander Pope",
+      "Jonathan Swift",
+      "John Dryden",
+      "William Wordsworth"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, neoclassical_age"
+  },
+  {
+    "id": "Q-4612",
+    "q": "Which period is known as “The Golden Age of English Literature”?",
+    "options": [
+      "Victorian Age",
+      "Elizabethan Age",
+      "Eighteenth century",
+      "Restoration period"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, history_of_eng_lit"
+  },
+  {
+    "id": "Q-4613",
+    "q": "Which novel is written by an Indian novelist?",
+    "options": [
+      "Ministry of Utmost Happiness",
+      "Return of the Native",
+      "Things Fall Apart",
+      "Heart of Darkness"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "45_bcs, indian_lit"
+  },
+  {
+    "id": "Q-4699",
+    "q": "‘For God’s sake hold your tongue...’ from poem?",
+    "options": [
+      "To His Coy...",
+      "The Canonization",
+      "Definition of Love",
+      "The Sun Rising"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, poem "
+  },
+  {
+    "id": "Q-4700",
+    "q": "One-act play ‘Riders to the Sea’ was written by?",
+    "options": [
+      "G. B. Shaw",
+      "Oscar Wilde",
+      "J. M. Synge",
+      "John Galsworthy"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, drama "
+  },
+  {
+    "id": "Q-4701",
+    "q": "‘Neither a borrower nor a lender be...’ play?",
+    "options": [
+      "Macbeth",
+      "King Lear",
+      "Measure for...",
+      "Hamlet"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, drama "
+  },
+  {
+    "id": "Q-4702",
+    "q": "Who composed the elegiac poem ‘Thyrsis’?",
+    "options": [
+      "Thomas Gray",
+      "Matthew Arnold",
+      "John Milton",
+      "P. B. Shelley"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, poem "
+  },
+  {
+    "id": "Q-4703",
+    "q": "Writer of famous essay ‘Tradition and Individual Talent’?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "T. S. Eliot",
+      "Francis Bacon"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, essay "
+  },
+  {
+    "id": "Q-4704",
+    "q": "‘Our sweetest songs... tell of saddest thought.’",
+    "options": [
+      "To a Skylark",
+      "Ode to West Wind",
+      "Adonais",
+      "The Cloud"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, poem "
+  },
+  {
+    "id": "Q-4705",
+    "q": "Who authored the futuristic novel ‘Brave New World’?",
+    "options": [
+      "E. M. Forster",
+      "Virginia Woolf",
+      "Aldous Huxley",
+      "Graham Greene"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, novel "
+  },
+  {
+    "id": "Q-4706",
+    "q": "‘Good fences make good neighbors’.—Writer?",
+    "options": [
+      "Robert Graves",
+      "Robert Frost",
+      "Ezra Pound",
+      "Carl Sandburg"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, poem "
+  },
+  {
+    "id": "Q-4707",
+    "q": "‘Cowards die many times before their deaths’—Play?",
+    "options": [
+      "Julius Caesar",
+      "Romeo and Juliet",
+      "The Tempest",
+      "Twelfth Night"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, drama "
+  },
+  {
+    "id": "Q-4708",
+    "q": "‘Knowledge comes, but wisdom lingers.’ poem?",
+    "options": [
+      "Morte d’ Arthur",
+      "The Lotos-Eaters",
+      "Tithonus",
+      "Locksley Hall"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, poem "
+  },
+  {
+    "id": "Q-4709",
+    "q": "The tragedy ‘Samson Agonistes’ was penned by?",
+    "options": [
+      "Marlowe",
+      "Henrik Ibsen",
+      "John Milton",
+      "Arthur Miller"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, poem "
+  },
+  {
+    "id": "Q-4710",
+    "q": "Playwright of absurd drama ‘Waiting for Godot’?",
+    "options": [
+      "Jean Genet",
+      "Samuel Beckett",
+      "Harold Pinter",
+      "Tom Stoppard"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, drama "
+  },
+  {
+    "id": "Q-4711",
+    "q": "‘It’s strange — but true;... Stranger than fiction.’",
+    "options": [
+      "Mark Twain",
+      "Robert Herrick",
+      "Lord Byron",
+      "Franz Kafka"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, poem "
+  },
+  {
+    "id": "Q-4712",
+    "q": "Who wrote the novella ‘Heart of Darkness’?",
+    "options": [
+      "Joseph Conrad",
+      "Doris Lessing",
+      "John Osborne",
+      "Thomas Hardy"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, novel "
+  },
+  {
+    "id": "Q-4713",
+    "q": "Writer of essay ‘Shooting an Elephant’?",
+    "options": [
+      "Francis Bacon",
+      "George Orwell",
+      "Joseph Addison",
+      "Charles Lamb"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "47_bcs, essay "
+  },
+  {
+    "id": "Q-4864",
+    "q": "Lord of the Flies was written by ________",
+    "options": [
+      "William Shakespeare",
+      "William Wordsworth",
+      "William Golding",
+      "T.S. Eliot"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "48_bcs, novel"
+  },
+  {
+    "id": "Q-4869",
+    "q": "Doctor Faustus is _______",
+    "options": [
+      "a comedy",
+      "a tragedy",
+      "a historical novel",
+      "an absurd play"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "48_bcs, drama"
+  },
+  {
+    "id": "Q-4871",
+    "q": "John Keats wrote _____",
+    "options": [
+      "Ode to the West Wind",
+      "Ode on a Grecian Urn",
+      "Tintern Abbey",
+      "The Ancient Mariner"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "48_bcs, poetry"
+  },
+  {
+    "id": "Q-4878",
+    "q": "Who composed ‘Paradise Lost’?",
+    "options": [
+      "John Donne",
+      "John Keats",
+      "John Dryden",
+      "John Milton"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "48_bcs, poetry"
+  },
+  {
+    "id": "Q-4879",
+    "q": "Charles Dickens was an English _________",
+    "options": [
+      "poet",
+      "playwright",
+      "politician",
+      "novelist"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "48_bcs, writer"
+  },
+  {
+    "id": "Q-4946",
+    "q": "“...most pernicious race... upon the Earth”– occurs in?",
+    "options": [
+      "Robinson Crusoe",
+      "A Doll’s House",
+      "Vanity Fair",
+      "Gulliver’s Travels"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "49_bcs, novel "
+  },
+  {
+    "id": "Q-4949",
+    "q": "“Rubiyat of Khayyam” is attributed to–",
+    "options": [
+      "Edward FitzGerald",
+      "Scott Fitzgerald",
+      "Thomas Fitzgerald",
+      "William Fitzgerald"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "49_bcs, কবিতা "
+  },
+  {
+    "id": "Q-4966",
+    "q": "Novel ‘Wuthering Heights’ author’s penname?",
+    "options": [
+      "Ellise Bellet",
+      "Ellis Belle",
+      "Ellis Bell",
+      "Una Ellis"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "49_bcs, novel "
+  },
+  {
+    "id": "Q-4988",
+    "q": "Who wrote “A Vindication of the Rights of Women”?",
+    "options": [
+      "Claire Clairmont",
+      "Marry Wollstonecraft",
+      "Mary Wollstonecraft Godwin",
+      "Mary Shelley"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "49_bcs, essay "
+  },
+  {
+    "id": "Q-5006",
+    "q": "The play “Englishmen for My Money” was written by–",
+    "options": [
+      "Christopher...",
+      "Thomas Kyd",
+      "William Haughton",
+      "Ben Johnson"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "49_bcs, drama "
+  },
+  {
+    "id": "Q-5058",
+    "q": "Meaningless dialogues and forgetful characters play?",
+    "options": [
+      "Pygmalion",
+      "Skin Game",
+      "Waiting for Godot",
+      "Candida"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, drama "
+  },
+  {
+    "id": "Q-5059",
+    "q": "In Lilliput depiction, Swift does not show?",
+    "options": [
+      "pride",
+      "lies",
+      "peace & wisdom",
+      "silly rules"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, novel "
+  },
+  {
+    "id": "Q-5060",
+    "q": "‘Let me not to the marriage of true minds...’?",
+    "options": [
+      "Spencer",
+      "Petrarch",
+      "Shakespeare",
+      "Donne"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, poem "
+  },
+  {
+    "id": "Q-5080",
+    "q": "Not characteristic of English Romantic Poetry?",
+    "options": [
+      "Ordinary life",
+      "Everyday language",
+      "feelings...",
+      "gaudy phraseology"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, poetry "
+  },
+  {
+    "id": "Q-5099",
+    "q": "Matthew Arnold pessimistic worldview poem?",
+    "options": [
+      "Scholar Gipsy",
+      "Dover Beach",
+      "Rugby Chapel",
+      "Immortality"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, poem "
+  },
+  {
+    "id": "Q-5100",
+    "q": "‘Poetry is spontaneous overflow...’—কার উক্তি?",
+    "options": [
+      "Coleridge",
+      "Wordsworth",
+      "TS Eliot",
+      "IA Richards"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, poetry "
+  },
+  {
+    "id": "Q-5147",
+    "q": "‘Seven Ages of Man’ speech was delivered by-",
+    "options": [
+      "Oliver",
+      "Orlando",
+      "Jaques",
+      "Rosalind"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, drama "
+  },
+  {
+    "id": "Q-5174",
+    "q": "intense love and multigenerational cruelty?",
+    "options": [
+      "Jane Eyre",
+      "Emma",
+      "Wuthering Heights",
+      "Persuasion"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, novel "
+  },
+  {
+    "id": "Q-5181",
+    "q": "racial prejudice, Eastern & Western cultures...",
+    "options": [
+      "Shadow of the Moon",
+      "Bhowani Junction",
+      "Kim",
+      "A Passage to India"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, novel "
+  },
+  {
+    "id": "Q-5183",
+    "q": "defence of freedom of speech and expression?",
+    "options": [
+      "Holy Living...",
+      "Areopagitica",
+      "Religio Medici",
+      "A Free Man’s..."
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, prose "
+  },
+  {
+    "id": "Q-5192",
+    "q": "‘A Book of Verses...’ translation work by-",
+    "options": [
+      "Scott Fitzgerald",
+      "Edward FitzGerald",
+      "William Fitzgerald",
+      "Gerald Fitzgerald"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, poem "
+  },
+  {
+    "id": "Q-5238",
+    "q": "The killing of albatross indicative of-",
+    "options": [
+      "trigger-happy...",
+      "irrationality of man",
+      "superstitious...",
+      "skillful fowler"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "50_bcs, poem "
+  },
+  {
+    "id": "Q-7828",
+    "q": "‘Paradise Lost’ attempted to -",
+    "options": [
+      "Explain why good and evil are necessary",
+      "Justify the ways of man to God",
+      "Justify the ways of God to man",
+      "Show that the Satan and God have equal power"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "bcs",
+    "tags": "primary_15_phase_1, literature"
+  },
+  {
+    "id": "Q-7906",
+    "q": "Who wrote the book ‘Paradise Regained’?",
+    "options": [
+      "John Keats",
+      "William Blake",
+      "P. B. Shelley",
+      "John Milton"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_15_phase_2, literature"
+  },
+  {
+    "id": "Q-7909",
+    "q": "Who is the writer of ‘Treasure Island’?",
+    "options": [
+      "J. Milton",
+      "Homer",
+      "Stevenson",
+      "Byron"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_15_phase_2, literature"
+  },
+  {
+    "id": "Q-7915",
+    "q": "What is catastrophe?",
+    "options": [
+      "The comic and tragic end of the play",
+      "None of the above",
+      "The comical end of dramatic events",
+      "The tragic end of dramatic events"
+    ],
+    "ans": 3,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_15_phase_2, literature"
+  },
+  {
+    "id": "Q-7967",
+    "q": "The book ''Man and Superman'' is written by-",
+    "options": [
+      "Bernard Shaw",
+      "Monika Ali",
+      "Lord Byron",
+      "Charles Dickens"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_15_phase_3, literature"
+  },
+  {
+    "id": "Q-8217",
+    "q": "The book ‘Treasure Island’ is by",
+    "options": [
+      "Stevenson",
+      "James Joyce",
+      "Arthur Miller",
+      "Homer"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_19_phase_2, literature"
+  },
+  {
+    "id": "Q-8743",
+    "q": "What is an epic?",
+    "options": [
+      "a novel",
+      "a long poem",
+      "a long prose composition",
+      "a romance"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_22_phase_1, literature"
+  },
+  {
+    "id": "Q-8909",
+    "q": "A Myth is-",
+    "options": [
+      "a legend",
+      "detective story",
+      "an adventurous story",
+      "an mysterious story"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_22_phase_3, literature"
+  },
+  {
+    "id": "Q-8974",
+    "q": "Which period is known as the ‘golden age’ of English literature?",
+    "options": [
+      "the Eighteen century",
+      "the Victorian age",
+      "the Elizabethan age",
+      "the Restoration age"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_25, literature"
+  },
+  {
+    "id": "Q-8976",
+    "q": "Who wrote the novel “the god of small things”.",
+    "options": [
+      "Kiran Deshai",
+      "Anita Desai",
+      "Arundhuti Ray",
+      "Orhan Pamuk"
+    ],
+    "ans": 2,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_25, literature"
+  },
+  {
+    "id": "Q-8979",
+    "q": "“To err is human, forgive divine”, is a line of a poem by.",
+    "options": [
+      "Pope",
+      "Shelley",
+      "Milton",
+      "Shakespeare"
+    ],
+    "ans": 0,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_25, literature"
+  },
+  {
+    "id": "Q-8988",
+    "q": "The most famous poet of English literature is",
+    "options": [
+      "William Wordsworth",
+      "T.S. Eliot",
+      "John Dryden",
+      "Alexander Pope"
+    ],
+    "ans": 1,
+    "sub": "eng_lit",
+    "cat": "primary",
+    "tags": "primary_25, literature"
+  }
+]
